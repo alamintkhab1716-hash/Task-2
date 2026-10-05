@@ -1,0 +1,10 @@
+com\softnexis\contactmanager\controller\ContactServlet.class
+com\softnexis\contactmanager\util\ContactValidator.class
+com\softnexis\contactmanager\model\Contact.class
+com\softnexis\contactmanager\controller\AddContactServlet.class
+com\softnexis\contactmanager\service\InMemoryContactService.class
+com\softnexis\contactmanager\filter\CharacterEncodingFilter.class
+com\softnexis\contactmanager\Main.class
+com\softnexis\contactmanager\util\ValidationResult.class
+com\softnexis\contactmanager\util\CsrfTokenManager.class
+com\softnexis\contactmanager\service\ContactService.class
